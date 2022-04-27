@@ -2,7 +2,7 @@
 - 👀 I’m interested in create randon softwares
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on whatever people need
-- 📫 How to reach me risking
+- 📫 How to reach me? risking.
 
 <!---
 And5reas/And5reas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
