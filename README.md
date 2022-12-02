@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @And5reas
 - 👀 I’m interested in create randon softwares
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and C#
 - 💞️ I’m looking to collaborate on whatever people need
 - 📫 How to reach me? risking.
 
