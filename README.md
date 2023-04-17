@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @And5reas
-- 👀 I’m interested in create randon softwares
-- 🌱 I’m currently learning C++ and C#
+- 👋 Hi, I'm Andreas, I'm currently studying Computer Engineering and I like to program stuffs 😊
+- 👀 I’m interested in create softwares
+- 🌱 I’m currently learning Python, kivy, javascript and MatLab
 - 💞️ I’m looking to collaborate on whatever people need
 - 📫 How to reach me? risking.
 
