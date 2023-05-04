@@ -2,7 +2,7 @@
 - 👀 I’m interested in create softwares
 - 🌱 I’m currently learning Python, kivy, javascript and MatLab
 - 💞️ I’m looking to collaborate on whatever people need
-- 📫 How to reach me? risking.
+- 📫 How to reach me? And5reas.porcel@hotmail.com
 
 <!---
 And5reas/And5reas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
