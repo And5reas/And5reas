@@ -8,7 +8,7 @@ My goal is work hard as a developer and solve real-life problems to make people'
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AndreasWilliamPorcel/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/and5reas_md?igshid=MzMyNGUyNmU2YQ==)
 
-[![And5reas.porcel@hotmail.com](https://img.shields.io/badge/And5reas.porcel@hotmail.com-Reach_me-blue)](And5reas.porcel@hotmail.com)
+And5reas.porcel@hotmail.com
 
 ---
 
